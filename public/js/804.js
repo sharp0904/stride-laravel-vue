@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[804],{3744:(e,n)=>{n.Z=(e,n)=>{const c=e.__vccOpts||e;for(const[e,t]of n)c[e]=t;return c}},3804:(e,n,c)=>{c.r(n),c.d(n,{default:()=>r});var t=c(821);const f={},r=(0,c(3744).Z)(f,[["render",function(e,n){return(0,t.openBlock)(),(0,t.createElementBlock)("div",null," fdfdfdfdfd ")}]])}}]);
+//# sourceMappingURL=804.js.map
